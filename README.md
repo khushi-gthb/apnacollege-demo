@@ -1,5 +1,5 @@
 # apnacollege-demo
 <br>
-Author- Khushi Rajput
+Author- Khushi (Apna College)
 <br>
 This is my first repository
